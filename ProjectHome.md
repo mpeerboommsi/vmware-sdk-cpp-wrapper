@@ -1,0 +1,4 @@
+VIM/vSphere SDK is the primary way to managemnt VMware ESX platform, the most used virtualization infrastructure on the market. However access the SDK with C++ toolchain is a really challenge. This project is going to fix this issue. It provides:
+**Well wrapped C++ classes implementaiton of complete VIM/vSphere SDK. It covers all versions: 2.5, 4.0, 4.1 and the latest 5.0;** A command line based MOB (Managed Object Browser). That is also the sample of how to use the C++ wrapper
+
+I hope this will helpful to those C++ programmers who are going to manage their ESX servers and would like welocme any suggestion to make it better.
